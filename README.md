@@ -1,1 +1,1 @@
-Bu index.html dosyası kodluyoruz ödev1 için yapıldı.
+Bu index.html dosyası kodluyoruz ödev1 ve ödev2 için yapıldı.
