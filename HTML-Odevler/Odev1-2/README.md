@@ -1,1 +1,0 @@
-Bu index.html dosyası kodluyoruz ödev1 ve ödev2 için yapıldı.
