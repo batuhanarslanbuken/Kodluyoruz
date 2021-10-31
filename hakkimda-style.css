@@ -1,0 +1,22 @@
+body{
+    background-color: #334756;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #FF4C29;
+    text-align: center;
+    background-color: #082032;
+}
+
+h1{
+    background-color: #082032;
+    margin: 50px;
+}
+
+article > p{
+    color:#FF4C29;
+}
+
+article > p, h1, h2, h3{
+    margin: 0px;
+}
